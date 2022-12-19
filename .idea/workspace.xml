@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d932b0fb-6619-4c37-8519-1117389075bd" name="Changes" comment="add gitignore">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ru.javarush.november.shkaraput.island.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/shkaraput/island/domain/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/shkaraput/island/domain/Island.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/shkaraput/island/domain/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/shkaraput/island/domain/Organism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/shkaraput/island/domain/Plant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/shkaraput/island/domain/animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/shkaraput/island/domain/animal/Caterpillar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/shkaraput/island/domain/animal/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/shkaraput/island/domain/animal/Fox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/shkaraput/island/domain/animal/Herbivore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/shkaraput/island/domain/animal/Predator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/shkaraput/island/settings/Settings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/shkaraput/island/util/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/shkaraput/island/util/Randomizer.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="7ad70be9-dd03-4c65-b64a-4f7fbb1d3b64" />
+        <option name="url" value="https://github.com/TaraSCREAM/ru.javarush.november.shkaraput.island.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IoZbyy8O5zilwIYl74zb1q2tL2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.shkaraput.island.domain" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d932b0fb-6619-4c37-8519-1117389075bd" name="Changes" comment="" />
+      <created>1670849974939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670849974939</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add gitignore">
+      <created>1670850108963</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670850108963</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add gitignore">
+      <created>1670850588298</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670850588298</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add gitignore" />
+  </component>
+</project>
